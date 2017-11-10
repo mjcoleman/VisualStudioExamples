@@ -1,0 +1,9 @@
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\bin\Debug\158212 Assignment 4.exe.config
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\bin\Debug\158212 Assignment 4.exe
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\bin\Debug\158212 Assignment 4.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\158212 Assignment 4.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\_158212_Assignment_4.Properties.Resources.resources
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\158212 Assignment 4.csproj.GenerateResource.Cache
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\158212 Assignment 4.exe
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\158212 Assignment 4.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 4\158212 Assignment 4\obj\Debug\_158212_Assignment_4.TextAnalyst.resources

@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\A1\A1\bin\Debug\A1.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\A1\A1\bin\Debug\A1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\A1\A1\bin\Debug\A1.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\A1\A1\obj\Debug\A1.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\A1\A1\obj\Debug\A1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\A1\A1\obj\Debug\A1.pdb
+\\psf\Home\Desktop\07315554 Assignment 1\A1\bin\Debug\A1.exe.config
+\\psf\Home\Desktop\07315554 Assignment 1\A1\obj\Debug\A1.exe
+\\psf\Home\Desktop\07315554 Assignment 1\A1\obj\Debug\A1.pdb

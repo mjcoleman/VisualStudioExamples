@@ -1,0 +1,11 @@
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.Sudoku.resources
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\bin\Debug\SudokuManager.dll
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\bin\Debug\SudokuManager.pdb
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\theze_000\Desktop\SudokuManager\Sudoku\obj\Debug\Sudoku.pdb

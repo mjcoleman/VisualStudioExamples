@@ -1,0 +1,18 @@
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.exe.config
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.exe
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\_158212_Assignment_2.Form1.resources
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\_158212_Assignment_2.Properties.Resources.resources
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.csproj.GenerateResource.Cache
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.exe
+C:\Users\theze_000\Desktop\158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.pdb
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.exe.config
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.exe
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.pdb
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.exe
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\bin\Debug\158212 Assignment 2.pdb
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\_158212_Assignment_2.Form1.resources
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\_158212_Assignment_2.Properties.Resources.resources
+\\psf\Home\Desktop\07315554 158212 Assignment 2\158212 Assignment 2\obj\Debug\158212 Assignment 2.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\bin\Debug\Assignment4Tests.dll
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\bin\Debug\Assignment4Tests.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\bin\Debug\158212 Assignment 4.exe
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\bin\Debug\158212 Assignment 4.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\obj\Debug\Assignment4Tests.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\obj\Debug\Assignment4Tests.dll
+C:\Users\theze_000\Desktop\158212 Assignment 4\Assignment4Tests\obj\Debug\Assignment4Tests.pdb

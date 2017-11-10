@@ -1,0 +1,16 @@
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\StudentManagementSystem.Form1.resources
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\StudentManagementSystem.PaperAddForm.resources
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\StudentManagementSystem.StudentAddForm.resources
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.csproj.GenerateResource.Cache
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\bin\Debug\158212 Assignment 5.exe.config
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\bin\Debug\158212 Assignment 5.exe
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\bin\Debug\158212 Assignment 5.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\bin\Debug\StudentManagementSystem.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\bin\Debug\StudentManagementSystem.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.exe
+C:\Users\theze_000\Desktop\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.pdb
+\\psf\Home\Desktop\158212 Assignment 5 wx\158212 Assignment 5\158212 Assignment 5\bin\Debug\158212 Assignment 5.exe.config
+\\psf\Home\Desktop\158212 Assignment 5 wx\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.exe
+\\psf\Home\Desktop\158212 Assignment 5 wx\158212 Assignment 5\158212 Assignment 5\obj\Debug\158212 Assignment 5.pdb

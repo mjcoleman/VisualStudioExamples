@@ -1,0 +1,9 @@
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\StudentManagementSystemTests.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\StudentManagementSystemTests.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\158212 Assignment 5.exe
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\StudentManagementSystem.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\158212 Assignment 5.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\bin\Debug\StudentManagementSystem.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\obj\Debug\StudentManagementSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\obj\Debug\StudentManagementSystemTests.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystemTests\obj\Debug\StudentManagementSystemTests.pdb

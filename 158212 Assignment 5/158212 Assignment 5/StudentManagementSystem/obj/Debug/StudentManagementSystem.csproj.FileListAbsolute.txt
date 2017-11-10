@@ -1,0 +1,5 @@
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystem\bin\Debug\StudentManagementSystem.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
+C:\Users\theze_000\Desktop\158212 Assignment 5\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
